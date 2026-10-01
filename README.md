@@ -3,7 +3,7 @@
 A hero section where scrolling drives the animation: a car moves across the
 screen and its trail reveals the "WELCOME ITZFIZZ" headline.
 
-**Live demo:** https://YOUR-USERNAME.github.io/car-scroll-animation/
+**Live demo:** https://mani-sha12.github.io/car-scroll-animation/
 
 ## Features
 - Intro animation on load: road wipes in, car slides in, stat cards appear one by one
